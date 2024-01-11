@@ -15,13 +15,14 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "noahai"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+locale                   : "ko-KR"
+title                    : "Noah's AI Note"
+title_separator          : "|"
+subtitle                 : "Keep going"
 name                     : "Noah"
-description              : "An amazing website."
+description              : "This is Noah's technology summary blog."
 url                      : "https://JYKai.github.io"
+future                   : true
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
